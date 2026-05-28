@@ -138,7 +138,7 @@ Potential future upgrades include:
 
 ---
 
-## Author
+# Author
 
 **Danilo Augusto Salvego dos Santos**
 
