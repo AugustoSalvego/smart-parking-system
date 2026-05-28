@@ -140,5 +140,7 @@ Potential future upgrades include:
 
 # Author
 
-Danilo Augusto Salvego
+Danilo Augusto Salvego dos Santos 
+
+Github: https://github.com/AugustoSalvego
 
