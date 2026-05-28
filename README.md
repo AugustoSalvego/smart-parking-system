@@ -138,9 +138,8 @@ Potential future upgrades include:
 
 ---
 
-# Author
+## Author
 
-Danilo Augusto Salvego dos Santos 
+**Danilo Augusto Salvego dos Santos**
 
-Github: https://github.com/AugustoSalvego
-
+GitHub: [AugustoSalvego](https://github.com/AugustoSalvego)
